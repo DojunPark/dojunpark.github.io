@@ -2,9 +2,11 @@
 layout: post
 title: "[NLP] 실습 환경 설정"
 subtitle: " 자연어처리 실습을 위한 프로그램 설치하기"
-date: 2020-08-21 23:45:00 -0400
+date: 2020-08-13 01:42:00 -0400
 background: '/img/posts/cmd.png'
 ---
+
+
 
 <p>  자연어처리를 하기 위해서는 기본적으로 필요한 프로그램들이 있습니다. 앞으로의 순탄한 학습과 실습을 생각한다면, 이 프로그램들을 잘 설치하는 것이 매우 중요한 시작이라 할 수 있습니다. 하나씩 아래 설명을 따라서 설치를 진행하도록 하겠습니다.</p>
 
@@ -15,11 +17,10 @@ background: '/img/posts/cmd.png'
 <p>  설치를 마치기 전, 마지막에 뜨는 창에서 add Python 3.8 to PATH를 체크해줍니다. PATH에 변수 설정이 되어있을 때만 어떤 디렉토리에 있던 프로그램 실행이 가능하기 때문입니다. 설치를 진행하면서 PATH 설정을 해주는 것이 나중에 별도로 환경설정 하는 번거로운 수고를 줄이는 방법입니다. </p>
 
 <p>  Cmd(커맨드창)을 띄워 python을 입력하고 아래와 같이 python에 대한 정보가 출력되면 정상적으로 파이썬 설치가 완료된 것입니다.</p>
-![1](https://imgur.com/ySuOekO)
+<a href=" https://imgur.com/ySuOekO"><img src="https://i.imgur.com/ySuOekO.png" width="1000px" title="source: imgur.com" /></a>
 
 <h2 class="section-heading"> 머신러닝 라이브러리 설치</h2>
 <p>이번에는 파이썬에서 기계학습에 필요한 라이브러리들을 설치해보도록 하겠습니다. 파이썬에서 패키지 및 라이브러를 설치하고 관리할 때 pip 패키지를 사용합니다. 먼저 cmd창에 아래 코드를 입력하여 pip를 최신 버전으로 업데이트 해주도록 하겠습니다. </p>
-
 ```
 python -m pip install –upgrade pip
 ```
@@ -30,13 +31,11 @@ python -m pip install –upgrade pip
 <p>matplot : 유사한 그래프 표시를 가능케 하는 라이브러리</p>
 <p>scikit-learn : 파이썬으로 작성된 데이터 분석을 위한 범용 오픈 소스 라이브러리로서, 수 많은 기계학습 모델들이 내장되어 있음</p>
 <p>아래 코드를 입력하여 위 라이브러리들을 설치해보겠습니다. </p>
-
 ```
 python -m pip install numpy scipy matplot scikit-learn
 ```
 
 <p>설치가 완료되었다면 python을 실행시키고, 각 라이브러리가 잘 import 되는 지 확인해봅니다. </p>
-
 ```
 import numpy
 import scipy
@@ -44,27 +43,23 @@ import matplot
 import scikit-learn
 ```
 
-Jupyter Notebook 설치
-웹 브라우저에서 실행하는 파이썬 개발 환경
-다른 파이썬 라이브러리와 동일한 방법으로 jupyter notebook을 설치합니다
+<h2 class="section-heading"> Jupyter Notebook 설치</h2>
+<p>다음으로 설치할 것은 jupyter notebook입니다. 여느 프로그래밍 언어나 많이 사용되는 통합개발환경(IDE)이 있는데, jupyter notebook은 웹 브라우저에서 실행하는 개발 환경으로 파이썬 통합개발환경으로 많이 쓰이고 있습니다. 다른 파이썬 라이브러리와 동일한 방법으로 jupyter notebook을 설치합니다.</p>
+```
 pip install jupyter
+```
 
-설치가 완료되면 command창에 jupyter notebook을 입력하고, 마지막에 나오는 url을 복사하여 브라우저에 복사하여 붙여넣기 하여 해당 주소로 이동하면 jupyter가 화면에서 실행됨
+<p>설치가 완료되면 cmd창에 jupyter notebook을 입력하고, 마지막에 나오는 url을 복사하여 브라우저에 붙여넣기하여 해당 주소로 이동하면 jupyter가 화면에서 실행됩니다. </p>
 
-Google Colab
-개발자들을 위해 구글에서 제공하는 무료 클라우드 서비스
-무거운 연산을 수행하는 딥러닝 학습은 GPU 환경을 필요로 하는데, 일반 pc로 수행하기 어려움
-구글 코랩 서비스를 이용하면 하루 12시간 gpu를 사용할 수 있음
+<a href="https://imgur.com/a/vF0bpHl"><img src="https://i.imgur.com/wNtacrR.png" width="1000px" title="source: imgur.com" /></a>
 
-구글 드라이브에서 폴더를 생성하고, 해당 폴더에 마우스 우 클릭을 하여 더보기를 눌러서 google colaboratory를 누름
-만약 해당 버튼이 없다면 더보기로 들어가서 코랩을 드라이브에 연결하여 실행
-주피터 노트북과 동일한 환경과 같이 사용할 수 있음
 
-실행 파일을 개인 드라이브와 연동하여 파일을 저장할 수 있음
-From google.colab import ..
+<h2 class="section-heading">Google Colab</h2>
+<p>마지막으로 설명드릴 것은 개발자들을 위해 구글에서 제공하는 무료 클라우드 서비스인 Google Colab입니다. 셀 수 없이 많은 매트릭스 연산을 수행하는 딥러닝 학습은 GPU 환경을 필요로 하는데, 이를 일반 pc로 수행하기에는 상당한 어려움이 있습니다. Google Colab 서비스를 이용하면 하루 12시간 GPU를 무료로 사용할 수 있고, 구글 드라이브 연동하여 파일을 내 드라이브에 저장하여 쉽고 간편하게 파이썬 딥러닝 학습을 시킬 수 있습니다. 또한 주피터 노트북과 동일한 환경으로 구성되어 있어 기존 주피터 노트북 사용자라면 누구나 편리하게 이용할 수 있는 서비스 입니다. </p>
 
-위 코드를 실행하면 ㅈ
 
+
+**[출처] “실습 환경 설정” <김학수, 건국대학교 자연어처리 연구실>, < http://nlp.konkuk.ac.kr/bbs/board.php?bo_table=lectures>**
 
 
 
