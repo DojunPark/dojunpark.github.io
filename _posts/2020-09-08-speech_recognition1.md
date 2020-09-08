@@ -19,9 +19,9 @@ background: '/img/posts/speech.jpg'
 이러한 정보는 사람의 말소리를 감지하는 surveillance system(보안감시 시스템), 핸드폰 사용자의 음성을 인식하는 personal assistant system(음성 비서) 등을 예시로 들 수 있다.
 
 ## 2. 음성 인식의 장점
-① 자연스러움(natrual): 사람과 대화하듯 자연스러운 이용이 가능
-② 유연함(flexible): 별도로 손을 사용하지 않은 채 이용이 가능
-③ 효율적임(efficient): typing이나 손으로 쓰는 것보다 빠름
+1. 자연스러움(natrual): 사람과 대화하듯 자연스러운 이용이 가능
+2. 유연함(flexible): 별도로 손을 사용하지 않은 채 이용이 가능
+3. 효율적임(efficient): typing이나 손으로 쓰는 것보다 빠름
 4. 경제적임(economical): 별도의 도구가 필요없음
 5. 원격(remote): 멀리 떨어진 채 전화 음성을 이용
 6. 접목가능성(applicable): 화자 인식, 감정 인식 등이 가능
