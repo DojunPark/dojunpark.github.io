@@ -161,25 +161,24 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+       This section highlights a variety of my projects in the domain of Natural Language Processing and Web Development, displaying my ability to apply AI techniques, develop effective translation models, build efficient search engines, and create intuitive web-based services. The projects underline my proficiency in handling various languages such as English, German, Chinese and Korean, and demonstrate my adeptness at using various tools and methodologies like IBM models, Flask, and XML corpus.
+       
     assignments:
       - title: AI German Grammar Correction Service
         link: https://germanworld.pythonanywhere.com/
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An AI-powered web service that detects and explains grammatical errors in German texts."
 
       - title: Development of Statistical Dependency Parser
         link: https://github.com/DojunPark/IMS-Dependency_Parsing
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A statistical dependency parser for English and German texts with approximately 75 UAS scores, based on the arc-standard parser."
 
       - title: Statistical Chinese-Korean Machine Translation
         link: https://github.com/b05102139/smt
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Development of a Statistical Chinese-Korean Machine Translation model utilizing IBM-model theories and multiple tokenization techniques."
 
       - title: Development of web-based XML corpus search service
         link: https://github.com/DojunPark/text_technology
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A project involving the creation of a database using XML corpus and the development of a search engine utilizing Flask."
 
 publications:
     title: Publications
