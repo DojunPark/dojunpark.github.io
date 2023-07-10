@@ -37,13 +37,13 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: TOEFL iBT 95(Professional)
 
         - idiom: German
-          level: Professional
+          level: DSH 2, CEFR C1(Professional)
 
         - idiom: Chinese
-          level: Basic
+          level: HSK 3(Basic)
 
     interests:
       title: Interests
@@ -80,9 +80,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BTech in Human ICT Convergence
-                BA in English Language and Literature
-        university: Konkuk University
+      - degree: BTech in Human ICT Convergence & BA in English Language and Literature
+        university: Konkuk University (Seoul)
         time: 2018 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -106,9 +105,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Intern
+        time: Aug. 2020 - July. 2021
+        company: Konkuk University NLP Lab, Seoul
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,39 +120,16 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: COS Pro(Python) Level 2
           start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          end: 
+          organization: YBM
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit.
@@ -168,13 +144,13 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis, 
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
+        - name: ADsP(Advanced Data Analytics Semi-Professional)
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Korea Data Agency (K-DATA)
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit.
@@ -184,7 +160,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
             Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
             Praesent venenatis erat non augue suscipit consectetur. 
-        
 projects:
     title: Projects
     intro: >
@@ -212,24 +187,24 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -238,20 +213,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "German Phoneme Recognition with Text-to-Phoneme Data Augmentation"
+        link: https://arxiv.org/abs/2211.13776
+        authors: Dojun Park, Seohyun Park
+        conference: arXiv:2211.13776
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Grammar Accuracy Evaluation (GAE): Quantifiable Qualitative Evaluation of Machine Translation Models"
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11100317
+        authors: Dojun Park, Youngjin Jang, Harksoo Kim
+        conference: Journal of KIISE 49(7):514-520
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Korean- English Machine Translation with Multiple Tokenization Strategy
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583415
+        authors: Dojun Park, Youngjin Jang, Harksoo Kim
+        conference: Korea Computer Congress 2021, 1720–1722
 
 skills:
     title: Skills &amp; Proficiency
