@@ -128,19 +128,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
+            Acquired in 2020, COS Pro(Python) Level 2 certifies my skills in Python programming, including problem-solving, program design, implementation, and debugging, with a focus on creating accurate and efficient code.
             
         - name: ADsP(Advanced Data Analytics Semi-Professional)
           start: 2019
@@ -150,19 +138,13 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            ADsP certification, acquired in 2019, indicates proficiency in data analysis, interpretation, and managerial applications. It covers a wide range of topics including business information, statistics, programming, and high-dimension analyses, introducing fundamental programming in R. 
+            
 projects:
     title: Projects
     intro: >
        This section highlights a variety of my projects in the domain of Natural Language Processing and Web Development, displaying my ability to apply AI techniques, develop effective translation models, build efficient search engines, and create intuitive web-based services. The projects underline my proficiency in handling various languages such as English, German, Chinese and Korean, and demonstrate my adeptness at using various tools and methodologies like IBM models, Flask, and XML corpus.
-       
+
     assignments:
       - title: AI German Grammar Correction Service
         link: https://germanworld.pythonanywhere.com/
