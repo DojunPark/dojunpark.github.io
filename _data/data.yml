@@ -16,7 +16,7 @@ sidebar:
     email: dojun.parkk@gmail.com
     phone: +82 10-8248-6844
     timezone: Asia/Seoul (KST, UTC+09:00)
-    citizenship: Republic of Korea
+    citizenship: South Korea
     website: 
     linkedin: Dojun Park
     xing: 
@@ -37,13 +37,13 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: TOEFL iBT 95(Professional)
+          level: TOEFL iBT 95 - Professional
 
         - idiom: German
-          level: DSH 2, CEFR C1(Professional)
+          level: DSH 2, CEFR C1 - Professional
 
         - idiom: Chinese
-          level: HSK 3(Basic)
+          level: HSK 3 - Basic
 
     interests:
       title: Interests
@@ -52,9 +52,6 @@ sidebar:
           link:
 
         - item: Hiking
-          link:
-
-        - item: Cycling
           link:
 
 career-profile:
@@ -81,7 +78,7 @@ education:
             - Bullet point
             - Bullet point
       - degree: BTech in Human ICT Convergence & BA in English Language and Literature
-        university: Konkuk University (Seoul)
+        university: Konkuk University (Seoul, South Korea)
         time: 2018 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -187,9 +184,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      My research interests lie in the application of machine learning and deep learning techniques to natural language processing, with a specific focus on machine translation. In the works listed below, I've explored methods for improving German phoneme recognition using text-to-phoneme data augmentation, proposed a qualitative method for evaluating the grammar accuracy of machine translation models, and investigated the use of multiple tokenization strategies in Korean-English machine translation. These publications represent my ongoing commitment to improving machine understanding of human languages, with the ultimate goal of creating more accurate and effective translation tools.
     papers:
       - title: "German Phoneme Recognition with Text-to-Phoneme Data Augmentation"
         link: https://arxiv.org/abs/2211.13776
@@ -211,31 +206,31 @@ skills:
 
     toolset:
       - name: Python
-        level: 90%
+        level: 85%
 
       - name: Pytorch
-        level: 90%
+        level: 80%
 
       - name: Tensorflow
-        level: 80%
+        level: 70%
 
       - name: Keras
-        level: 80%
+        level: 70%
 
       - name: Pandas
-        level: 80%
+        level: 70%
 
       - name: Flask
-        level: 70%
+        level: 60%
 
       - name: Git
-        level: 70%
+        level: 60%
 
       - name: Ubuntu
-        level: 70%
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
