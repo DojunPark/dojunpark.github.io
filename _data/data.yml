@@ -45,15 +45,6 @@ sidebar:
         - idiom: Chinese
           level: HSK 3 - Basic
 
-    interests:
-      title: Interests
-      info:
-        - item: Jogging
-          link:
-
-        - item: Hiking
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
