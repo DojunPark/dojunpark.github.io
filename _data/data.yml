@@ -48,13 +48,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Jogging
           link:
 
-        - item: Snowboarding
+        - item: Hiking
           link:
 
-        - item: Cooking
+        - item: Cycling
           link:
 
 career-profile:
@@ -69,9 +69,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Computational Linguistics
+        university: University of Stuttgart
+        time: 2021 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +80,21 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BTech in Human ICT Convergence
+                BA in English Language and Literature
+        university: Konkuk University
+        time: 2018 - 2021
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BE in Computer Engineering
+        university: The Korean Academic Credit Bank System
+        time: 2019 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
