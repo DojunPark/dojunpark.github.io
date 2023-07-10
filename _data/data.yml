@@ -57,12 +57,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A proficient Natural Language Processing (NLP) engineer with a solid background in Computational Linguistics. My extensive experience in diverse projects and research, as evidenced by my numerous publications, enables me to handle a broad range of tasks efficiently. Fluent in multiple languages, including Korean, English, German, and Chinese, I leverage my linguistic proficiency to excel in various language-related tasks. Passionate about applying my skills and knowledge to solve complex problems in the field of NLP.
+
 education:
     title: Education
     info:
@@ -70,35 +66,17 @@ education:
         university: University of Stuttgart
         time: 2021 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
       - degree: BTech in Human ICT Convergence & BA in English Language and Literature
         university: Konkuk University (Seoul, South Korea)
         time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: BE in Computer Engineering
         university: The Korean Academic Credit Bank System
         time: 2019 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 experiences:
     title: Experiences
     info:
@@ -106,17 +84,7 @@ experiences:
         time: Aug. 2020 - July. 2021
         company: Konkuk University NLP Lab, Seoul
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          During my tenure as a Research Intern from Aug. 2020 to July. 2021 at Konkuk University NLP Lab, Seoul, I was heavily involved in the realm of machine learning and natural language processing. I facilitated weekly study sessions with other interns and graduate students, delving into machine learning and deep learning algorithms and conducting hands-on NLP exercises. Additionally, I audited a graduate-level course on NLP, acquiring knowledge on various tasks within the NLP field. Most notably, I undertook independent research on machine translation during my internship, which resulted in the publication of a paper in a domestic conference and a journal, further elucidated in the 'Publications' section.
 certifications:
       title: Certifications
       list:
@@ -138,8 +106,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            ADsP certification, acquired in 2019, indicates proficiency in data analysis, interpretation, and managerial applications. It covers a wide range of topics including business information, statistics, programming, and high-dimension analyses, introducing fundamental programming in R. 
-            
+            Earned in 2019, the ADsP certification substantiates my expertise in extracting meaningful insights from (big) data to aid managerial decision-making. It validates my deep understanding of various advanced statistical analyses such as logistic analysis, time series analysis, and principal component analysis. Furthermore, it confirms my ability to apply fundamental programming principles using R.
 projects:
     title: Projects
     intro: >
