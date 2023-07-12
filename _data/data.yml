@@ -101,7 +101,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-       This section highlights a variety of my projects in the domain of Natural Language Processing and Web Development, displaying my ability to apply AI techniques, develop effective translation models, build efficient search engines, and create intuitive web-based services. The projects underline my proficiency in handling various languages such as English, German, Chinese and Korean, and demonstrate my adeptness at using various tools and methodologies like IBM models, Flask, and XML corpus.
+       I highlights here a variety of my projects in the domain of Natural Language Processing and Web Development, displaying my ability to apply AI techniques, develop effective translation models, build efficient search engines, and create intuitive web-based services. The projects underline my proficiency in handling various languages such as English, German, Chinese and Korean, and demonstrate my adeptness at using various tools and methodologies like IBM models, Flask, and XML corpus.
 
     assignments:
       - title: AI German Grammar Correction Service
