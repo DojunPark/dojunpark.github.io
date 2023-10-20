@@ -125,8 +125,8 @@ publications:
     intro: |
       My research interests lie in the application of machine learning and deep learning techniques to natural language processing, with a specific focus on machine translation. In the works listed below, I've explored methods for improving German phoneme recognition using text-to-phoneme data augmentation, proposed a qualitative method for evaluating the grammar accuracy of machine translation models, and investigated the use of multiple tokenization strategies in Korean-English machine translation. These publications represent my ongoing commitment to improving machine understanding of human languages, with the ultimate goal of creating more accurate and effective translation tools.
     papers:
-      - title: "Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean"
-        authors: Dojun Park, Sebastian Padó
+      - title: "Multi-Score Neural Machine Translation Evaluation: Beyond Single Score Metrics"
+        authors: Dojun Park
         conference: To be updated
 
       - title: "German Phoneme Recognition with Text-to-Phoneme Data Augmentation"
