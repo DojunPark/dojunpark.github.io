@@ -107,7 +107,7 @@ projects:
     assignments:
       - title: AI German Grammar Correction Service
         link: https://germanworld.pythonanywhere.com/
-        tagline: "An AI-powered web service that detects and explains grammatical errors in German texts."
+        tagline: "A GPT3-based web service that detects and explains grammatical errors in German texts."
 
       - title: Development of Statistical Dependency Parser
         link: https://github.com/DojunPark/IMS-Dependency_Parsing
