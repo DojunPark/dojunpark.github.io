@@ -48,7 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A proficient Natural Language Processing (NLP) engineer with a solid background in Computational Linguistics. My extensive experience in diverse projects and research, as evidenced by my numerous publications, enables me to handle a broad range of tasks efficiently. Fluent in multiple languages, including Korean, English, German, and Chinese, I leverage my linguistic proficiency to excel in various language-related tasks. Passionate about applying my skills and knowledge to solve complex problems in the field of NLP.
+      Experienced Natural Language Processing engineer with a solid background in Computational Linguistics. I've managed a variety of NLP projects and have published papers in the field. Fluent in Korean, English, German, and Chinese, I utilize my linguistic expertise to excel in diverse language-related tasks. I am deeply passionate about deploying my skills to address intricate challenges in the NLP domain, with keen interests in machine translation and its evaluation.
+
 
 education:
     title: Education
@@ -71,11 +72,11 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Research Intern
+      - role: Research Assistent
         time: Aug. 2020 - July. 2021
         company: Konkuk University NLP Lab, Seoul
         details: |
-          During my tenure as a Research Intern from Aug. 2020 to July. 2021 at Konkuk University NLP Lab, Seoul, I was heavily involved in the realm of machine learning and natural language processing. I facilitated weekly study sessions with other interns and graduate students, delving into machine learning and deep learning algorithms and conducting hands-on NLP exercises. Additionally, I audited a graduate-level course on NLP, acquiring knowledge on various tasks within the NLP field. Most notably, I undertook independent research on machine translation during my internship, which resulted in the publication of a paper in a domestic conference and a journal, further elucidated in the 'Publications' section.
+          In my role as a Research Assistent from Aug. 2020 to July. 2021 at Konkuk University NLP Lab, Seoul, I was heavily involved in machine learning and natural language processing. I facilitated weekly study sessions with other interns and graduate students, delving into machine learning and deep learning algorithms and conducting hands-on NLP exercises. Additionally, I audited a graduate-level course on NLP, acquiring knowledge on various tasks within the NLP field. Most notably, I undertook research on machine translation, which resulted in the publication of a paper in a conference and a journal, further elucidated in the 'Publications' section.
 certifications:
       title: Certifications
       list:
@@ -127,7 +128,7 @@ publications:
     papers:
       - title: "Multi-Score Neural Machine Translation Evaluation: Beyond Single Score Metrics"
         authors: Dojun Park
-        conference: To be updated
+        conference: Master Thesis
 
       - title: "German Phoneme Recognition with Text-to-Phoneme Data Augmentation"
         link: https://arxiv.org/abs/2211.13776
