@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Dojun Park
-    tagline: NLP Engineer
+    tagline: NLP Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -72,11 +72,17 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Research Assistent
-        time: Aug. 2020 - July. 2021
-        company: Konkuk University NLP Lab, Seoul
+    - role: Research Assistent
+        time: Nov. 2023 - Current
+        company: AI Center for Language and Cognition, Seoul National University
         details: |
-          In my role as a Research Assistent from Aug. 2020 to July. 2021 at Konkuk University NLP Lab, Seoul, I was heavily involved in machine learning and natural language processing. I facilitated weekly study sessions with other interns and graduate students, delving into machine learning and deep learning algorithms and conducting hands-on NLP exercises. Additionally, I audited a graduate-level course on NLP, acquiring knowledge on various tasks within the NLP field. Most notably, I undertook research on machine translation, which resulted in the publication of a paper in a conference and a journal, further elucidated in the 'Publications' section.
+          As a research assistant, I'm actively engaged in a project focused on evaluating Large Language Models (LLMs). My responsibilities include designing and implementing evaluation methodologies, analyzing LLM performance, and contributing to the development of more efficient and accurate language models. I collaborate closely with a team of researchers and professors, contributing to research discussions and idea generation.
+      
+      - role: Undergraduate Researcher
+        time: Aug. 2020 - July. 2021
+        company: Natural Language Processing Lab, Konkuk University
+        details: |
+          In my role as an undergraduate researcher, I was intensively involved in machine learning and natural language processing. I facilitated study sessions with other members, delving into machine learning and deep learning algorithms and conducting hands-on NLP exercises. Additionally, I audited a graduate-level course on NLP, acquiring knowledge on various tasks within the NLP field. Most notably, I undertook research on machine translation, which resulted in the publication of a paper in a conference and a journal, further elucidated in the 'Publications' section.
 certifications:
       title: Certifications
       list:
