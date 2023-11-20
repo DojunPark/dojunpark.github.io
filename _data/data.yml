@@ -72,7 +72,7 @@ education:
 experiences:
     title: Experiences
     info:
-    - role: Research Assistent
+      - role: Research Assistent
         time: Nov. 2023 - Current
         company: AI Center for Language and Cognition, Seoul National University
         details: |
