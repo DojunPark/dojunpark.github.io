@@ -55,7 +55,7 @@ education:
     title: Education
     info:
       - degree: MSc in Computational Linguistics
-        university: University of Stuttgart
+        university: University of Stuttgart (Stuttgart, Germany)
         time: 2021 - 2023
         details: |
           
@@ -74,7 +74,7 @@ experiences:
     info:
       - role: Research Assistent
         time: Nov. 2023 - Current
-        company: AI Center for Language and Cognition, Seoul National University
+        company: Artificial Intelligence Institute of Seoul National University (AIIS)
         details: |
           As a research assistant, I'm actively engaged in a project focused on evaluating Large Language Models (LLMs). My responsibilities include designing and implementing evaluation methodologies, analyzing LLM performance, and contributing to the development of more efficient and accurate evaluation models. I collaborate closely with a team of researchers and professors, contributing to research discussions and idea generation. 
       
@@ -132,9 +132,9 @@ publications:
     intro: |
       My research interests lie in the application of machine learning and deep learning techniques to natural language processing, with a specific focus on machine translation. In the works listed below, I've explored methods for improving German phoneme recognition using text-to-phoneme data augmentation, proposed a qualitative method for evaluating the grammar accuracy of machine translation models, and investigated the use of multiple tokenization strategies in Korean-English machine translation. These publications represent my ongoing commitment to improving machine understanding of human languages, with the ultimate goal of creating more accurate and effective translation tools.
     papers:
-      - title: "Multi-Score Neural Machine Translation Evaluation: Beyond Single Score Metrics"
-        authors: Dojun Park
-        conference: Master Thesis
+      - title: "Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean"
+        authors: Dojun Park, Sebastian Padó
+        conference: Accepted at LREC-COLING 2024
 
       - title: "German Phoneme Recognition with Text-to-Phoneme Data Augmentation"
         link: https://arxiv.org/abs/2211.13776
