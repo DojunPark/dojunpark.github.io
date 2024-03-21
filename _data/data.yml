@@ -65,10 +65,6 @@ education:
         time: 2018 - 2021
         details: |
 
-      # - degree: BE in Computer Engineering
-      #   university: The Korean Academic Credit Bank System
-      #   time: 2019 - 2020
-      #   details: |
           
 experiences:
     title: Experiences
@@ -84,49 +80,6 @@ experiences:
         company: Natural Language Processing Lab, Konkuk University
         details: |
           In my role as an undergraduate researcher, I was intensively involved in Machine Translation (MT) and its evaluation, specifically focusing on enhancing the performance of MT systems for the English-Korean language pair. My work involved modeling Transformer-based MT systems and evaluating their performance using the BLEU metric for automatic assessment and Grammar Accuracy Evaluation (GAE), a novel evaluation framework I developed that focuses on grammatical correctness.
-certifications:
-      title: Certifications
-      list:
-        - name: COS Pro(Python) Level 2
-          start: 2020
-          end: 
-          organization: YBM
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            Acquired in 2020, COS Pro(Python) Level 2 certifies my skills in Python programming, including problem-solving, program design, implementation, and debugging, with a focus on creating accurate and efficient code.
-            
-        - name: ADsP(Advanced Data Analytics Semi-Professional)
-          start: 2019
-          end:
-          organization: Korea Data Agency (K-DATA)
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            Earned in 2019, the ADsP certification substantiates my expertise in extracting meaningful insights from (big) data to aid managerial decision-making. It validates my deep understanding of various advanced statistical analyses such as logistic analysis, time series analysis, and principal component analysis. Furthermore, it confirms my ability to apply fundamental programming principles using R.
-projects:
-    title: Projects
-    intro: >
-       I highlights here a variety of my projects in the domain of Natural Language Processing and Web Development, displaying my ability to apply AI techniques, develop effective translation models, build efficient search engines, and create intuitive web-based services. The projects underline my proficiency in handling various languages such as English, German, Chinese and Korean, and demonstrate my adeptness at using various tools and methodologies like IBM models, Flask, and XML corpus.
-
-    assignments:
-      - title: AI German Grammar Correction Service
-        link: https://germanworld.pythonanywhere.com/
-        tagline: "A Flask-based web service that detects and explains grammatical errors in German texts by leveraging GPT-3.5-turbo."
-
-      - title: Development of Statistical Dependency Parser
-        link: https://github.com/DojunPark/IMS-Dependency_Parsing
-        tagline: "A statistical dependency parser for English and German texts with approximately 75 UAS scores, based on the arc-standard parser."
-
-      - title: Statistical Chinese-Korean Machine Translation
-        link: https://github.com/b05102139/smt
-        tagline: "Development of a Statistical Chinese-Korean Machine Translation model utilizing IBM-model theories and multiple tokenization techniques."
-
-      - title: Development of web-based XML corpus search service
-        link: https://github.com/DojunPark/text_technology
-        tagline: "A project involving the creation of a database using XML corpus and the development of a search engine utilizing Flask."
 
 publications:
     title: Publications
@@ -156,26 +109,75 @@ publications:
       - title: Korean- English Machine Translation with Multiple Tokenization Strategy
         link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583415
         authors: Dojun Park, Youngjin Jang, Harksoo Kim
-        conference: Korea Computer Congress 2021, 1720–1722
+        conference: Korea Computer Congress 2021, 1720–1722      
+
+projects:
+    title: Projects
+    intro: >
+       I highlights here a variety of my projects in the domain of Natural Language Processing and Web Development, displaying my ability to apply AI techniques, develop effective translation models, build efficient search engines, and create intuitive web-based services. The projects underline my proficiency in handling various languages such as English, German, Chinese and Korean, and demonstrate my adeptness at using various tools and methodologies like IBM models, Flask, and XML corpus.
+
+    assignments:
+      - title: AI German Grammar Correction Service
+        link: https://germanworld.pythonanywhere.com/
+        tagline: "A Flask-based web service that detects and explains grammatical errors in German texts by leveraging GPT-3.5-turbo."
+
+      - title: Development of Statistical Dependency Parser
+        link: https://github.com/DojunPark/IMS-Dependency_Parsing
+        tagline: "A statistical dependency parser for English and German texts with approximately 75 UAS scores, based on the arc-standard parser."
+
+      - title: Statistical Chinese-Korean Machine Translation
+        link: https://github.com/b05102139/smt
+        tagline: "Development of a Statistical Chinese-Korean Machine Translation model utilizing IBM-model theories and multiple tokenization techniques."
+
+      - title: Development of web-based XML corpus search service
+        link: https://github.com/DojunPark/text_technology
+        tagline: "A project involving the creation of a database using XML corpus and the development of a search engine utilizing Flask."
+
+certifications:
+      title: Certifications
+      list:
+        - name: COS Pro(Python) Level 2
+          start: 2020
+          end: 
+          organization: YBM
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Acquired in 2020, COS Pro(Python) Level 2 certifies my skills in Python programming, including problem-solving, program design, implementation, and debugging, with a focus on creating accurate and efficient code.
+            
+        - name: ADsP(Advanced Data Analytics Semi-Professional)
+          start: 2019
+          end:
+          organization: Korea Data Agency (K-DATA)
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Earned in 2019, the ADsP certification substantiates my expertise in extracting meaningful insights from (big) data to aid managerial decision-making. It validates my deep understanding of various advanced statistical analyses such as logistic analysis, time series analysis, and principal component analysis. Furthermore, it confirms my ability to apply fundamental programming principles using R.
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 85%
+        level: 100%
 
       - name: Pytorch
-        level: 80%
+        level: 85%
 
       - name: Tensorflow
-        level: 70%
-
-      - name: Keras
-        level: 70%
+        level: 85%
 
       - name: Pandas
-        level: 70%
+        level: 85%
+
+      - name: Numpy
+        level: 85%
+      
+      - name: Matplotlib
+        level: 85%
 
       - name: Flask
         level: 60%
@@ -183,11 +185,6 @@ skills:
       - name: Git
         level: 60%
 
-      - name: Ubuntu
-        level: 60%
-
-      - name: HTML5 & CSS
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
