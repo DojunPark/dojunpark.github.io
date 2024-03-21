@@ -143,8 +143,8 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
-            # Acquired in 2020, COS Pro(Python) Level 2 certifies my skills in Python programming, including problem-solving, program design, implementation, and debugging, with a focus on creating accurate and efficient code.
+          # details: |
+          #    Acquired in 2020, COS Pro(Python) Level 2 certifies my skills in Python programming, including problem-solving, program design, implementation, and debugging, with a focus on creating accurate and efficient code.
             
         - name: ADsP(Advanced Data Analytics Semi-Professional)
           start: 2019
@@ -153,8 +153,8 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
-            # Earned in 2019, the ADsP certification substantiates my expertise in extracting meaningful insights from (big) data to aid managerial decision-making. It validates my deep understanding of various advanced statistical analyses such as logistic analysis, time series analysis, and principal component analysis. Furthermore, it confirms my ability to apply fundamental programming principles using R.
+          # details: |
+          #   Earned in 2019, the ADsP certification substantiates my expertise in extracting meaningful insights from (big) data to aid managerial decision-making. It validates my deep understanding of various advanced statistical analyses such as logistic analysis, time series analysis, and principal component analysis. Furthermore, it confirms my ability to apply fundamental programming principles using R.
 
 
 skills:
