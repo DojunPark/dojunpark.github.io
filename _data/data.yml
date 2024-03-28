@@ -117,9 +117,9 @@ projects:
        I highlights here a variety of my projects in the domain of Natural Language Processing and Web Development, displaying my ability to apply AI techniques, develop effective translation models, build efficient search engines, and create intuitive web-based services. The projects underline my proficiency in handling various languages such as English, German, Chinese and Korean, and demonstrate my adeptness at using various tools and methodologies like IBM models, Flask, and XML corpus.
 
     assignments:
-      - title: AI German Grammar Correction Service
-        link: https://germanworld.pythonanywhere.com/
-        tagline: "A Flask-based web service that detects and explains grammatical errors in German texts by leveraging GPT-3.5-turbo."
+      - title: AI Korean Tutor
+        link: https://koreantutor.pythonanywhere.com/
+        tagline: "A Flask-based web service that detects and explains grammatical errors in Korean texts by leveraging GPT-3.5-turbo."
 
       - title: Development of Statistical Dependency Parser
         link: https://github.com/DojunPark/IMS-Dependency_Parsing
