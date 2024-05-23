@@ -86,15 +86,19 @@ publications:
     intro: |
       My research interests lie in the application of machine learning and deep learning techniques to natural language processing, with a specific focus on machine translation. In the works listed below, I've explored methods for improving German phoneme recognition using text-to-phoneme data augmentation, proposed a qualitative method for evaluating the grammar accuracy of machine translation models, and investigated the use of multiple tokenization strategies in Korean-English machine translation. These publications represent my ongoing commitment to improving machine understanding of human languages, with the ultimate goal of creating more accurate and effective translation tools.
     papers:
+      - title: "MultiPragEval: Multilingual Pragmatic Evaluation of Large Language Models"
+        authors: Dojun Park, Jiwoo Lee, Seohyun Park, Haeyun Jeong, Youngen Koo, Soonha Hwang, Seongwoo Park, Sungeun Lee
+        conference: Under Review
+      
       - title: "Pragmatic Competence Evaluation of Large Language Models for Korean"
         link: https://arxiv.org/abs/2403.12675
-        authors: Dojun Park, Jiwoo Lee, Haeyun Jung, Seohyun Park, Sungeun Lee
-        conference: Submitted for Publication
+        authors: Dojun Park, Jiwoo Lee, Haeyun Jeong, Seohyun Park, Sungeun Lee
+        conference: Under Review
 
       - title: "Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean"
-        link: https://arxiv.org/abs/2403.12666
+        link: https://aclanthology.org/2024.lrec-main.1024/
         authors: Dojun Park, Sebastian Padó
-        conference: Accepted at LREC-COLING 2024
+        conference: LREC-COLING 2024
 
       - title: "German Phoneme Recognition with Text-to-Phoneme Data Augmentation"
         link: https://arxiv.org/abs/2211.13776
