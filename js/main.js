@@ -17,7 +17,7 @@ if (publicationFilters) {
         if (visible) count += 1;
       });
       buttons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
-      status.textContent = `${count} ${selected === 'all' ? 'entries' : selected === 'preprint' ? 'preprints' : 'published papers'} · Publication status as listed in my CV`;
+      status.textContent = `${count} ${selected === 'all' ? 'entries' : selected === 'preprint' ? 'preprints' : 'published papers'}`;
     });
   });
 }
