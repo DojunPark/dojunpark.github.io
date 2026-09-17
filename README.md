@@ -1,20 +1,25 @@
-# dojunpark.github.io
+# Dojun Park — Personal Academic Website
 
-My personal website, featuring my research, publications, academic background, and contact information.
+Personal academic website of **Dojun Park**, a computational linguist and NLP researcher working on computational pragmatics, multilingual NLP, and language model evaluation.
 
-**GitHub Pages address:** https://dojunpark.github.io/
+**Live site:** [dojunpark.github.io](https://dojunpark.github.io/)
+
+## Features
+
+- Research interests and academic background
+- Research and industry experience
+- Filterable publication list
+- Languages and academic service
+- Responsive and accessible single-page design
+
+## Technology
+
+Built with plain HTML, CSS, and JavaScript. The website has no framework, database, external API, or build step.
 
 ## Structure
 
-- `index.html` — content and publication entries
-- `css/` — styles and responsive layout
-- `js/main.js` — publication filters and navigation
-- `images/` — profile photo
-
-Built with HTML, CSS, and JavaScript. Content is stored directly in the HTML; no database, API, or build step is needed.
-
-## Navigation
-
-`/#home` · `/#about` · `/#background` · `/#research` · `/#expertise` · `/#contact`
-
-Publications can be filtered by published papers and preprints. No URL parameters are required.
+```text
+index.html          Page content and publications
+css/                Styles and responsive layout
+js/main.js          Publication filters and navigation
+images/             Profile image
