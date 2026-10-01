@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <title>Dojun Park</title>
-  <rect width="64" height="64" rx="14" fill="#f7f7f2"/>
-  <g fill="none" stroke="#252c28" stroke-width="5"
-     stroke-linecap="round" stroke-linejoin="round">
-    <!-- d -->
-    <circle cx="18" cy="36" r="10"/>
-    <path d="M28 16V46"/>
-    <!-- p -->
-    <circle cx="46" cy="36" r="10"/>
-    <path d="M36 26V54"/>
-  </g>
+  <rect width="64" height="64" rx="6" fill="#f7f7f2"/>
+  <text
+    x="32"
+    y="45"
+    text-anchor="middle"
+    fill="#252c28"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="44"
+    font-weight="700"
+    letter-spacing="-2"
+  >dp</text>
 </svg>
