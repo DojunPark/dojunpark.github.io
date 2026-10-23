@@ -13,13 +13,13 @@ if (publicationFilters) {
       let count = 0;
       publications.forEach((publication) => {
         const type = publication.dataset.publicationType;
-        const visible = selected === 'all' || type === selected || (selected === 'conference' && type === 'workshop');
+        const visible = selected === 'all' || type === selected;
         publication.hidden = !visible;
         if (visible) count += 1;
       });
       buttons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
-      const labels = { all: 'publications', conference: 'conference papers', journal: 'journal articles', preprint: 'preprints' };
-      status.textContent = `${count} ${labels[selected]}`;
+      const labels = { all: 'publications', conference: 'conference papers', journal: 'journal articles', workshop: 'workshop papers', preprint: 'preprints' };
+      status.textContent = `${count} ${count === 1 ? label.slice(0, -1) : label}`;
     });
   });
 }
