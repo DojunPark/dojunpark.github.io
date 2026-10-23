@@ -12,12 +12,14 @@ if (publicationFilters) {
       const selected = button.dataset.publicationFilter;
       let count = 0;
       publications.forEach((publication) => {
-        const visible = selected === 'all' || publication.dataset.publicationType === selected;
+        const type = publication.dataset.publicationType;
+        const visible = selected === 'all' || type === selected || (selected === 'conference' && type === 'workshop');
         publication.hidden = !visible;
         if (visible) count += 1;
       });
       buttons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
-      status.textContent = `${count} ${selected === 'all' ? 'entries' : selected === 'preprint' ? 'preprints' : 'published papers'}`;
+      const labels = { all: 'publications', conference: 'conference papers', journal: 'journal articles', preprint: 'preprints' };
+      status.textContent = `${count} ${labels[selected]}`;
     });
   });
 }
