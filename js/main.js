@@ -19,6 +19,7 @@ if (publicationFilters) {
       });
       buttons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
       const labels = { all: 'publications', conference: 'conference papers', journal: 'journal articles', workshop: 'workshop papers', preprint: 'preprints' };
+      const label = labels[selected];
       status.textContent = `${count} ${count === 1 ? label.slice(0, -1) : label}`;
     });
   });
