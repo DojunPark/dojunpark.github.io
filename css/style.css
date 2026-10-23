@@ -56,6 +56,7 @@ h2 { font-size: 23px; line-height: 1.35; font-weight: 550; letter-spacing: -.5px
 .publication-count { font-size: 12px; color: var(--muted); }
 .publication-entry { padding: 22px 0; border-bottom: 1px solid var(--line); }
 .publication-entry:last-child { border-bottom: 0; padding-bottom: 0; }
+.publication-entry:not(:has(~ .publication-entry:not([hidden]))) { border-bottom: 0; padding-bottom: 0; }
 .publication-meta { display: flex; align-items: baseline; gap: 14px; font-size: 11px; line-height: 1.5; color: var(--muted); margin-bottom: 5px; }
 .publication-meta span:first-child { font-variant-numeric: tabular-nums; }
 .publication-meta span + span { border-left: 1px solid var(--line); padding-left: 14px; }
