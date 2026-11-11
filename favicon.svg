@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 말풍선 -->
+  <path d="M14 6h36a10 10 0 0 1 10 10v24a10 10 0 0 1-10 10H30L17 60V50h-3A10 10 0 0 1 4 40V16A10 10 0 0 1 14 6z"
+        fill="url(#g)"/>
+
+  <!-- 어텐션 연결선 -->
+  <path d="M18 34 Q25 21 32 34 M32 34 Q39 21 46 34 M18 34 Q32 9 46 34"
+        stroke="#fff" stroke-width="3" fill="none"
+        stroke-linecap="round" opacity="0.85"/>
+
+  <!-- 토큰 -->
+  <circle cx="18" cy="35" r="5" fill="#fff"/>
+  <circle cx="32" cy="35" r="5" fill="#fff"/>
+  <circle cx="46" cy="35" r="5" fill="#fff"/>
+</svg>
