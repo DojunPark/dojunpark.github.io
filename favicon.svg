@@ -1,20 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>Dojun Park — Computational Linguistics</title>
-  <rect width="64" height="64" rx="6" fill="#fafaf7"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Computational linguistics">
+  <title>Computational Linguistics</title>
+  <rect width="24" height="24" rx="4" fill="#F7F6F0"/>
 
-  <!-- speech bubble body -->
-  <rect x="9" y="9" width="46" height="36" rx="11"
-        fill="none" stroke="#355e4c" stroke-width="4.5"/>
+  <!-- speech bubble -->
+  <path d="M4 4.6h16a1.6 1.6 0 0 1 1.6 1.6v9.2a1.6 1.6 0 0 1-1.6 1.6H9.4L5.2 20.2a.6.2 0 0 1-.9-.5v-2.7H4A1.6 1.6 0 0 1 2.4 15.4V6.2A1.6 1.6 0 0 1 4 4.6Z"
+        fill="none" stroke="#2F4F45" stroke-width="1.9" stroke-linejoin="round"/>
 
-  <!-- tail -->
-  <path d="M18 43 L14 55 L28 43 Z" fill="#355e4c"/>
-
-  <!-- syntax tree connectors -->
-  <path d="M32 20 L21 33 M32 20 L43 33"
-        stroke="#355e4c" stroke-width="3.4" stroke-linecap="round"/>
-
-  <!-- nodes -->
-  <circle cx="32" cy="20" r="3.6" fill="#355e4c"/>
-  <circle cx="21" cy="33" r="3.6" fill="#355e4c"/>
-  <circle cx="43" cy="33" r="3.6" fill="#355e4c"/>
+  <!-- prompt chevron -->
+  <path d="M9.6 8.6 13.6 11.6 9.6 14.6"
+        fill="none" stroke="#2E7D5B" stroke-width="2.1"
+        stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
