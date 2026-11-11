@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- 배경 -->
-  <rect width="64" height="64" rx="14" fill="#0B0F19"/>
+  <style>
+    .line { stroke: #111111; }
+    @media (prefers-color-scheme: dark) {
+      .line { stroke: #FAFAFA; }
+    }
+  </style>
 
-  <!-- 문맥 (큰 호) -->
-  <path d="M16 38 A16 16 0 0 1 48 38"
-        fill="none" stroke="#E5E7EB" stroke-width="4" stroke-linecap="round"/>
+  <g fill="none" stroke-width="6" stroke-linecap="round">
+    <path class="line" d="M12 20H52"/>
+    <path class="line" d="M12 32H44"/>
+    <path class="line" d="M12 44H28"/>
+  </g>
 
-  <!-- 어텐션 (작은 호) -->
-  <path d="M32 38 A8 8 0 0 1 48 38"
-        fill="none" stroke="#A78BFA" stroke-width="4" stroke-linecap="round"/>
-
-  <!-- 토큰 -->
-  <circle cx="16" cy="38" r="4.5" fill="#E5E7EB"/>
-  <circle cx="32" cy="38" r="4.5" fill="#A78BFA"/>
-  <circle cx="48" cy="38" r="4.5" fill="#E5E7EB"/>
+  <!-- 다음 토큰 -->
+  <circle cx="40" cy="44" r="4.5" fill="#7C5CFF"/>
 </svg>
