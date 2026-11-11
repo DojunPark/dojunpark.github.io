@@ -1,14 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>Dojun Park</title>
-  <rect width="64" height="64" rx="6" fill="#f7f7f2"/>
-  <text
-    x="32"
-    y="45"
-    text-anchor="middle"
-    fill="#252c28"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="44"
-    font-weight="700"
-    letter-spacing="-2"
-  >dp</text>
+  <title>Dojun Park — Computational Linguistics</title>
+  <rect width="64" height="64" rx="6" fill="#fafaf7"/>
+
+  <!-- speech bubble body -->
+  <rect x="9" y="9" width="46" height="36" rx="11"
+        fill="none" stroke="#355e4c" stroke-width="4.5"/>
+
+  <!-- tail -->
+  <path d="M18 43 L14 55 L28 43 Z" fill="#355e4c"/>
+
+  <!-- syntax tree connectors -->
+  <path d="M32 20 L21 33 M32 20 L43 33"
+        stroke="#355e4c" stroke-width="3.4" stroke-linecap="round"/>
+
+  <!-- nodes -->
+  <circle cx="32" cy="20" r="3.6" fill="#355e4c"/>
+  <circle cx="21" cy="33" r="3.6" fill="#355e4c"/>
+  <circle cx="43" cy="33" r="3.6" fill="#355e4c"/>
 </svg>
